@@ -1,1 +1,1 @@
-# Understanding Imbalanced Forgetting in Class-Incremental Learning with Rehearsal
+# On Imbalanced Forgetting in Rehearsal-based Class-Incremental Learning
