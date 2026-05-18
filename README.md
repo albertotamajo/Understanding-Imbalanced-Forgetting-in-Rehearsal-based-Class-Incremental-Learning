@@ -10,9 +10,9 @@ Neural networks suffer from *catastrophic forgetting* in class-incremental learn
 ## Repository Structure
 ```text
 .
-├── Analysis/          # Includes several python scripts for analyzing the data extracted from the runned experiments
-├── Experiments/       # Includes several python scripts for running the experiments performed by this paper 
-├── Extractions/       # Includes several python scripts for extracting data from the runned experiments
+├── Analysis/          # Includes several scripts for analyzing the data extracted from the runned experiments
+├── Experiments/       # Includes several scripts for running the experiments performed by this paper 
+├── Extractions/       # Includes several scripts for extracting data from the runned experiments
 ├── benchmarks/        # Provides the CIFAR-100 and TinyImageNet benchmarks adapted to the class-incremental learning setting
 ├── convnets/          # Includes the implementation of the ResNet backbones
 ├── metrics/           # Provides several useful metrics that can be tracked during the continual learning phase
