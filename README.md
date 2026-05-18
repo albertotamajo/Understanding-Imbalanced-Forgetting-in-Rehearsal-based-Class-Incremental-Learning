@@ -29,7 +29,7 @@ The `benchmarks`, `metrics`, `models`, and `training` modules build on the corre
 ## Reproducibility
 This repository provides two different reproducibility workflows.
 ### Full Reproducibility
-To fully reproduce the results presented in the paper, follow the instructions below in the same order:
+To fully reproduce the results presented in the paper, follow the instructions below in the given order:
 1. We provide an `environment.yml` file containing a list of the necessary dependencies. Use it to reproduce the same environment in your machine.
 2. Run all the scripts inside the `Experiments` folder.
 3. Run all the scripts inside the `Extractions` folder.
