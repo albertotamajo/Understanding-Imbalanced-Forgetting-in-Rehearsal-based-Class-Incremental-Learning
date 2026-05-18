@@ -27,6 +27,9 @@ Neural networks suffer from *catastrophic forgetting* in class-incremental learn
 The `benchmarks`, `metrics`, `models`, and `training` modules build on the corresponding modules from the [Avalanche](https://avalanche.continualai.org/) framework. We thank the authors for their contributions to the continual learning community.
 
 ## Reproducibility
+This repository provides two different reproducibility workflows.
+### Full Reproducibility
+### Lightweight Reproducibility
 
 
 ## Citation
