@@ -36,7 +36,7 @@ To fully reproduce the results presented in the paper, follow the instructions b
 	- These scripts produce `.pkl` files containing the extracted data. Move these files into the `Analysis` folder.
 4. Use the `normal_exps_analysis` and `controlled_exps_analysis` scripts inside the `Analysis` folder to analyze the data extracted from the standard experiments and the controlled experiments, respectively.
 ### Lightweight Reproducibility
-Alternatively, since full reproduction is time-consuming, you can skip Steps 1–3 by downloading from [here](https://1drv.ms/u/c/b2e831b9f4e18bc4/IQCz1LW5eOnKTKJ_9nycnNH_AWIRYC9Ro_Ac7cQPoPJlO2w?e=esjKdS) a zipped folder containing the `.pkl` files generated during our empirical investigation. As before, move these files into the `Analysis` folder and proceed with step 4.
+Alternatively, since full reproduction is time-consuming, you can skip Steps 1–3 by downloading from [here](https://1drv.ms/u/c/b2e831b9f4e18bc4/IQCz1LW5eOnKTKJ_9nycnNH_AWIRYC9Ro_Ac7cQPoPJlO2w?e=esjKdS) a zipped folder containing the `.pkl` files generated during our empirical investigation. As before, move these files into the `Analysis` folder and proceed to step 4.
 
 
 ## Citation
