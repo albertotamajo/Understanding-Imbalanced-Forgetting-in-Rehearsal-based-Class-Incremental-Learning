@@ -29,6 +29,12 @@ The `benchmarks`, `metrics`, `models`, and `training` modules build on the corre
 ## Reproducibility
 This repository provides two different reproducibility workflows.
 ### Full Reproducibility
+To fully reproduce the results presented in the paper, follow the instructions below in the same order:
+1. We provide an `environment.yml` file containing a list of the necessary dependencies. Use it to reproduce the same environment in your machine.
+2. Run all the scripts inside the `Experiments` folder.
+3. Run all the scripts inside the `Extractions` folder.
+	- These scripts produce `.pkl` files containing the extracted data. Move these files to the `Analysis` folder.
+4. Use the `normal_exps_analysis` script to analyze the data extracted from the standard experiments and the `controlled_exps_analysis` script to analyze the data extracted from the controlled experiments.
 ### Lightweight Reproducibility
 
 
