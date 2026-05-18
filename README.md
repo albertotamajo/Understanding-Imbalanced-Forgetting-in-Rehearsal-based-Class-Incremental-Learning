@@ -18,7 +18,10 @@ Neural networks suffer from *catastrophic forgetting* in class-incremental learn
 ├── convnets/          # ResNet backbone implementations
 ├── metrics/           # Metrics tracked during continual learning
 ├── models/            # Building blocks for continual learning architectures
-└── training/          # Continual learning training loops
+├── training/          # Continual learning training loops
+├── LICENSE            # Repository license
+├── README.md          # Readme file
+└── environment.yml    # Conda environment file for reproducing the project environment
 ```
 
 The `benchmarks`, `metrics`, `models`, and `training` modules build on the corresponding modules from the [Avalanche](https://avalanche.continualai.org/) framework. We thank the authors for their contributions to the continual learning community.
