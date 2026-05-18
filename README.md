@@ -1,5 +1,5 @@
 # Understanding Imbalanced Forgetting in Rehearsal-Based Class-Incremental Learning
-Created by Alberto Tamajo, Srinandan Dasmahapatra and Rahman Attar
+Created by Alberto Tamajo, Srinandan Dasmahapatra and Rahman Attar.
 
 ### Citation
 If you find our work useful in your research, please consider citing:
