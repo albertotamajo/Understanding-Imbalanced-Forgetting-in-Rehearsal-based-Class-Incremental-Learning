@@ -17,7 +17,7 @@ Neural networks suffer from *catastrophic forgetting* in class-incremental learn
 ├── convnets/          # Utility functions
 ├── metrics/           # Reproducibility scripts
 ├── models/            # Logs and checkpoints
-├── training/          # Logs and checkpoints
+└── training/          # Logs and checkpoints
 ```
 
 
