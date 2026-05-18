@@ -34,7 +34,7 @@ To fully reproduce the results presented in the paper, follow the instructions b
 2. Run all the scripts inside the `Experiments` folder.
 3. Run all the scripts inside the `Extractions` folder.
 	- These scripts produce `.pkl` files containing the extracted data. Move these files to the `Analysis` folder.
-4. Use the `normal_exps_analysis` script to analyze the data extracted from the standard experiments and the `controlled_exps_analysis` script to analyze the data extracted from the controlled experiments.
+4. Use the `normal_exps_analysis` and `controlled_exps_analysis` scripts inside the `Analysis` folder to analyze the data extracted from the standard experiments and the the controlled experiments, respectively.
 ### Lightweight Reproducibility
 
 
