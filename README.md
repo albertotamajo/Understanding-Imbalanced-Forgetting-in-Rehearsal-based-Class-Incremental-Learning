@@ -1,5 +1,5 @@
 # Understanding Imbalanced Forgetting in Rehearsal-Based Class-Incremental Learning
-Official repository for the paper [Understanding Imbalanced Forgetting in Rehearsal-Based Class Incremental Learning](https://arxiv.org/abs/2605.14785)
+Official repository for the paper [Understanding Imbalanced Forgetting in Rehearsal-Based Class Incremental Learning](https://arxiv.org/abs/2605.14785) (under review).
 
 Created by Alberto Tamajo, Srinandan Dasmahapatra and Rahman Attar.
 
