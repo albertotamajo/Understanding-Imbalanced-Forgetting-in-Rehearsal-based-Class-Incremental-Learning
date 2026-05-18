@@ -3,7 +3,7 @@ Official repository for the paper [Understanding Imbalanced Forgetting in Rehear
 
 Created by Alberto Tamajo, Srinandan Dasmahapatra and Rahman Attar.
 
-### Citation
+## Citation
 If you find our work useful in your research, please consider citing:
 
 	@article{tamajo2026understanding,
@@ -13,6 +13,6 @@ If you find our work useful in your research, please consider citing:
   		year={2026}
   	}
 
-### License
+## License
 Our code is released under MIT License (see LICENSE file for details).
 
